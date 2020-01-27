@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\PM_dict_Assignment5\PM_dict_Assignment5\bin\Debug\PM_dict_Assignment5.exe.config
+C:\Users\DELL\source\repos\PM_dict_Assignment5\PM_dict_Assignment5\bin\Debug\PM_dict_Assignment5.exe
+C:\Users\DELL\source\repos\PM_dict_Assignment5\PM_dict_Assignment5\bin\Debug\PM_dict_Assignment5.pdb
+C:\Users\DELL\source\repos\PM_dict_Assignment5\PM_dict_Assignment5\obj\Debug\PM_dict_Assignment5.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\PM_dict_Assignment5\PM_dict_Assignment5\obj\Debug\PM_dict_Assignment5.exe
+C:\Users\DELL\source\repos\PM_dict_Assignment5\PM_dict_Assignment5\obj\Debug\PM_dict_Assignment5.pdb
